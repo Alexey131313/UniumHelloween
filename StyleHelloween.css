@@ -1,0 +1,89 @@
+#background{ 
+  width: 100%;
+  height: 100%;
+  background-image: url(https://i.ytimg.com/vi/nVhFSmEpI64/maxresdefault.jpg);
+  background-attachment: fixed;
+}
+#header_back{
+  width: 100%;
+  height: 80px;
+  background-image: url(https://image.freepik.com/free-vector/no-translate-detected_1314-500.jpg);
+  background-size: 20%;
+}
+#header{
+  position: relative;
+  left: 500px;
+  width: 20%;
+  height: 100%;
+  font-family: 'Spicy Rice', cursive;
+  color: #f82d12;
+  background-image: url(https://st.depositphotos.com/1959319/3445/i/950/depositphotos_34459317-stock-photo-background-of-old-worn-wooden.jpg);
+  background-size: 95%;
+}
+h1{
+  font-size: 40px;
+  letter-spacing: 4px;
+}
+
+a:hover {background: #7a9e5a;}
+#icons_line{
+  width: 100%;
+  height: 80px;
+  background-color: #FF7518;
+  margin: 10px 0px 0px 0px;
+}
+#icons{
+  position: relative;
+  left: 325px;
+  width:600px;
+  height: 80px;
+}
+#content_background{
+  position: relative;
+  width: 75%;
+  height: 5000px;
+  left: 155px;
+  background-color: rgba(40, 114, 51, 0.8);
+  border: 6px inset #121910;
+}
+#content{
+  position: absolute;
+  width: 95%;
+  height: 100%;
+  opacity: 1;
+  padding: 0px 0px 0px 20px;
+  font-family: 'Patrick Hand', cursive;
+  font-size: 18px;
+}
+.button {
+  display: inline-block;
+  margin: 5px 0px 0px 0px;
+  width: 70px;
+  height: 70px;
+  background: url(http://subtlepatterns.com/patterns/extra_clean_paper.png);
+  cursor: pointer;
+  border-radius: 50%;
+  margin-left: 40px;
+  margin-bottom: 60px;
+  box-shadow: 0 3px 20px rgba(0,0,0,.25),
+  inset 0 2px 0 rgba(255,255,255,.6),
+  0 2px 0 rgba(0,0,0,.1),
+  inset 0 0 20px rgba(0,0,0,.1);
+}
+#footer{
+  width: 100%;
+  height: 100px;
+  background-color: #3F2512;
+}
+#hystory{
+  width: 100%;
+  height: 1000px;
+}
+#symbol{
+  width: 100%;
+  height: 1200px;
+}
+#monster{
+  width: 100%;
+  height: 300px;
+}
